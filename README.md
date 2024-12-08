@@ -1,6 +1,6 @@
 Diet Problem Solver
-Steps for using it:
 
+Features:
 1. On the sidebar panel, a list of foods with checkboxes is displayed for the users to select. Three buttons are available: 'pre-select' to select the first 20 items on the food table, 'reset' to remove selected foods, and 'all' to choose all food items.
    
 2. After selecting the foods, a user can now switch to the Results tab panel to view the results of his/her selection. The following will be displayed:
